@@ -70,3 +70,16 @@
 
 ## Support
 - Buy me a coffee: **buymeacoffee username**
+
+---
+
+## ✨ Animations
+
+To add animations to your GitHub README, you can use markdown badges, GIFs, or SVGs:
+
+### Example:
+```html
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F77F00&width=435&lines=Full-Stack+Developer;Passionate+about+Tech;Always+Learning" alt="Typing SVG" />
+```
+
+You can insert this just below your title to make your README more dynamic! 🚀

@@ -1,94 +1,93 @@
-<h1 align="center">Hi 👋, I'm <span style="color:#f9a825">Jalapatai Ravikumar</span></h1>
+<h1 align="center">Hi, I'm Jalapati Ravikumar 👋</h1>
+<h3 align="center">Full Stack Developer Intern at Kodnest</h3>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_ID" width="150" style="border-radius:50%">
+  Frontend Developer • Backend Developer • Full Stack Web Developer
 </p>
 
 <p align="center">
-  🎓 CSE Graduate &nbsp;|&nbsp; 💻 Full Stack Developer &nbsp;|&nbsp; 📍 Bangalore  
-</p>
-
-<p align="center">
-  📧 ravikumarjalapatii@gmail.com &nbsp;•&nbsp; 📱 +91 63005 94097
-</p>
-
----
-
-## 🚀 About Me
-
-✨ Passionate Full Stack Developer skilled in both **Java Full Stack** and **MERN Stack** technologies.  
-👨‍💻 7 months internship experience in building fast, responsive, and scalable apps.  
-🔍 Curious problem solver with a love for clean UI and efficient backend logic.
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <br/>
-  <img src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-%23000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SpringBoot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  Bengaluru, India • 
+  <a href="mailto:ravikumarjalapatii@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/jalapatiravikumar">LinkedIn</a>
 </p>
 
 ---
 
-## 📂 Featured Projects
+## About Me
 
-### 💬 Echo Gemini Chat
-> An AI-powered chat app using Gemini API for intelligent conversations. Clean UI, blazing-fast performance.
-
-🔗 [GitHub Repo](https://github.com/JalapatiRavikumar/echo-gemini-chat)  
-🚀 [Live Demo](https://echo-gemini-chat.vercel.app/)
+I am a Computer Science Engineering graduate from Santhiram Engineering College, class of 2024.  
+I am currently working as a Full Stack Developer Intern at Kodnest.  
+I enjoy building clean user interfaces, strong backend logic, and complete web applications.
 
 ---
 
-### 🌐 Personal Portfolio
-> My dev portfolio featuring resume, projects, contact info, and stylish animations.
+## Frontend Skills
 
-🔗 [GitHub Repo](https://github.com/JalapatiRavikumar/portfolio___)  
-🚀 [Live Demo](https://portfolio-wine-pi-29.vercel.app/)
+- HTML5
+- CSS3
+- JavaScript
+- React
+- Responsive Web Design
+- UI Development
+
+## Backend Skills
+
+- Java
+- Node.js
+- Express.js
+- Spring
+- Spring Boot
+- REST API Development
+
+## Full Stack Skills
+
+- MERN Stack
+- Java Full Stack
+- MongoDB
+- MySQL
+- Git
+- GitHub
+- Vercel
 
 ---
 
-### 🍔 Food Delivery System
-> A smart food delivery app with real-time tracking and category optimization.
+## Featured Projects
 
-📌 *Code will be uploaded soon*
+### Echo Gemini Chat
+AI-powered chat application built using Gemini API with a clean interface and smooth interaction flow.  
+- Repo: https://github.com/JalapatiRavikumar/echo-gemini-chat
+- Live: https://echo-gemini-chat.vercel.app/
+
+### Personal Portfolio
+Portfolio website to showcase my profile, projects, skills, and resume.  
+- Repo: https://github.com/JalapatiRavikumar/portfolio___
+- Live: https://portfolio-wine-pi-29.vercel.app/
+
+### Mini Event Booking
+Project focused on event booking workflow, frontend structure, and practical application flow.  
+- Repo: https://github.com/JalapatiRavikumar/Mini-Event-Booking
+
+### Weather Dashboard
+Project for displaying weather data in a useful and user-friendly dashboard format.  
+- Repo: https://github.com/JalapatiRavikumar/weather-dashboard
+
+### Data Processing
+Project built around JavaScript-based data handling and processing logic.  
+- Repo: https://github.com/JalapatiRavikumar/Data-Processing
 
 ---
 
-## 📄 Resume
+## Current Focus
 
-📥 [Click to View My Resume](https://drive.google.com/file/d/1V5bO4ox9usfSiqMmOyUfncLyX8ah6xyS/view?usp=drive_link)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JalapatiRavikumar&show_icons=true&theme=tokyonight&hide_border=true" width="450"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JalapatiRavikumar&theme=tokyonight&hide_border=true" width="400"/>
-</p>
+- Building stronger frontend projects with clean UI.
+- Improving backend logic and API design.
+- Creating full-stack projects with better code structure.
+- Making my GitHub profile more professional and recruiter-ready.
 
 ---
 
-## 📫 Connect with Me
+## Contact
 
-- 📧 Email: **ravikumarjalapatii@gmail.com**  
-- 📱 Phone: **+91 63005 94097**  
-- 📍 Bangalore, India  
-- 💼 LinkedIn (optional): *Add your link if you want*
+- Email: ravikumarjalapatii@gmail.com
+- LinkedIn: https://www.linkedin.com/in/jalapatiravikumar
+- Location: Bengaluru, India

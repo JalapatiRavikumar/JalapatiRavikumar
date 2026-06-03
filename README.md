@@ -136,6 +136,19 @@ focus      : MERN · Java · Python · AI/ML · DevOps
   <img src="https://img.shields.io/badge/FAISS_VectorDB-0066CC?style=for-the-badge&logo=meta&logoColor=white" />
 </div>
 
+### 🤖 AI, Concepts & Best Practices
+<div align="center">
+  <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLMs-FF0080?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-FF4500?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/OOP-6DB33F?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/DSA-FFD700?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/MVC_Architecture-00BFFF?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agile-00FF88?style=for-the-badge&logo=jira&logoColor=black" />
+  <img src="https://img.shields.io/badge/Error_Handling-DC382D?style=for-the-badge&logo=bugsnag&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microservices_Architecture-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+</div>
+
 ---
 
 ## 🔥 Featured Projects
@@ -258,20 +271,20 @@ focus      : MERN · Java · Python · AI/ML · DevOps
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=JalapatiRavikumar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=FF6B9D&text_color=ffffff&ring_color=6C63FF&include_all_commits=true&count_private=true"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JalapatiRavikumar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=ffffff&langs_count=8"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=JalapatiRavikumar&show_icons=true&bg_color=05070a&title_color=00F0FF&icon_color=FF6B9D&text_color=f4f4f9&ring_color=00F0FF&hide_border=true&include_all_commits=true&count_private=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JalapatiRavikumar&layout=compact&bg_color=05070a&title_color=FF6B9D&text_color=f4f4f9&hide_border=true&langs_count=8"/>
 
 </div>
 
 <div align="center">
 
-<img width="72%" src="https://github-readme-streak-stats.herokuapp.com/?user=JalapatiRavikumar&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=FF6B9D&fire=FFD93D&currStreakLabel=6BCB77&sideLabels=4DA8DA&dates=aaaaaa"/>
+<img width="72%" src="https://github-readme-streak-stats.herokuapp.com/?user=JalapatiRavikumar&theme=black-ice&background=05070a&fire=FFD93D&ring=00F0FF&currStreakLabel=6BCB77&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JalapatiRavikumar&bg_color=0D1117&color=6C63FF&line=FF6B9D&point=FFD93D&area=true&hide_border=true&area_color=6C63FF33"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JalapatiRavikumar&bg_color=05070a&color=00F0FF&line=FF6B9D&point=FFD93D&area=true&hide_border=true&area_color=6C63FF33"/>
 
 </div>
 
@@ -330,9 +343,9 @@ Gained hands-on experience across **MERN Stack** and **Java Full Stack** develop
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JalapatiRavikumar/JalapatiRavikumar/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JalapatiRavikumar/JalapatiRavikumar/output/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/JalapatiRavikumar/JalapatiRavikumar/output/github-contribution-grid-snake.svg"/>
 </picture>
 
 </div>

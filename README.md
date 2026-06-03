@@ -1,334 +1,542 @@
 <!-- ANIMATED HEADER BANNER -->
 <div align="center">
-  <img src="banner.svg" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF0080,25:FF4500,50:FFD700,75:00FF88,100:00BFFF&height=280&section=header&text=Jalapati%20Ravikumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20AI%20Enthusiast&descAlignY=62&descAlign=50&stroke=ffffff&strokeWidth=2" width="100%"/>
 </div>
 
-<!-- TYPING ANIMATION -->
+<!-- ANIMATED TYPING SVG -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=22&amp;duration=2800&amp;pause=700&amp;color=6C63FF&amp;background=00000000&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;repeat=true&amp;width=1000&amp;height=52&amp;lines=%F0%9F%9A%80+Full+Stack+Developer+%7C+MERN+%2B+Java+%2B+Python;%E2%9A%9B%EF%B8%8F+React.js+%7C+Next.js+%7C+Node.js+%7C+Spring+Boot;%F0%9F%A4%96+Gemini+AI+%7C+LangChain+%7C+RAG+%7C+Prompt+Engineering;%F0%9F%A7%A0+Deep+Learning+%7C+TensorFlow+%7C+Keras+%7C+MLOps;%E2%9A%A1+Real-time+Apps+with+Socket.io+%26+WebSockets;%E2%98%81%EF%B8%8F+Docker+%7C+Kubernetes+%7C+Azure+AKS+%7C+CI%2FCD+DevOps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=FF0080&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=50&lines=🚀+Full+Stack+Developer+%7C+MERN+%2B+Java+%2B+Python;⚛️+React.js+%7C+Node.js+%7C+Spring+Boot+%7C+Microservices;🤖+Gemini+AI+%7C+LLMs+%7C+Prompt+Engineering;⚡+Real-time+Apps+with+Socket.io+%26+WebSockets;☁️+Docker+%7C+Kubernetes+%7C+Azure+AKS+%7C+DevOps+CI%2FCD;💡+Building+Scalable%2C+Production-Ready+Applications" alt="Typing SVG" />
   </a>
-</div>
-
-<br/>
-
-<!-- OPEN TO WORK -->
-<div align="center">
-  <img src="https://img.shields.io/badge/🟢%20ACTIVELY%20OPEN%20TO%20WORK-Full%20Stack%20%7C%20MERN%20%7C%20Java%20%7C%20AI%2FML%20%7C%20DevOps-00C896?style=for-the-badge&labelColor=0D1117" />
 </div>
 
 <br/>
 
 <!-- SOCIAL BADGES -->
 <div align="center">
-  <a href="mailto:ravikumarjalapatii@gmail.com"><img src="https://img.shields.io/badge/Gmail-ravikumarjalapatii%40gmail.com-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;labelColor=1a1a2e" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/jalapatiravikumar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Jalapati%20Ravikumar-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;labelColor=1a1a2e" alt="LinkedIn" /></a>
-  <a href="https://github.com/JalapatiRavikumar" target="_blank"><img src="https://img.shields.io/badge/GitHub-JalapatiRavikumar-6C63FF?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=1a1a2e" alt="GitHub" /></a>
-  <a href="https://jalapatiravikumar-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Live%20Site-FF6B35?style=for-the-badge&amp;logo=vercel&amp;logoColor=white&amp;labelColor=1a1a2e" alt="Portfolio" /></a>
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=JalapatiRavikumar&amp;label=Profile+Views&amp;color=6C63FF&amp;style=for-the-badge&amp;labelColor=1a1a2e" alt="Profile Views"/>
-  &nbsp;
-  <a href="https://github.com/JalapatiRavikumar?tab=followers" target="_blank"><img src="https://img.shields.io/github/followers/JalapatiRavikumar?label=Followers&amp;style=for-the-badge&amp;color=FF6B9D&amp;labelColor=1a1a2e&amp;logo=github" alt="GitHub followers" /></a>
+
+[![Email](https://img.shields.io/badge/📧_Email-FF0080?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravikumarjalapatii@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jalapatiravikumar)
+[![GitHub](https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JalapatiRavikumar)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF4500?style=for-the-badge&logo=vercel&logoColor=white)](https://jalapatiravikumar-portfolio.vercel.app/)
+
+<img src="https://komarev.com/ghpvc/?username=JalapatiRavikumar&label=🔥+Profile+Views&color=FF0080&style=for-the-badge" alt="Profile Views"/>
+
 </div>
 
 ---
 
-## 🌌 About Me
+## 🌈 About Me
 
-<img align="right" alt="Coding GIF" width="370" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" alt="Coding GIF" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-```yaml
-name       : Jalapati Ravikumar
-role       : Full Stack Developer
-location   : Bengaluru, India 🇮🇳
-education  : B.Tech CSE — Santhiram Engineering College (2024)
-experience : Full Stack Dev Intern @ Kodnest
-focus      : MERN · Java · Python · AI/ML · DevOps
-```
+Hi! I'm **Jalapati Ravikumar** — a passionate **Full Stack Developer** from **Bengaluru, India** 📍
 
-🎯 **I build production-ready, AI-powered full-stack applications** across the entire stack — from pixel-perfect **React/Next.js** frontends to robust **Spring Boot** and **Node.js** backends.
+I specialize in building scalable, real-time web applications using the **MERN Stack**, **Java**, and **Python**. From crafting pixel-perfect frontends with **React.js** to powering robust backends with **Spring Boot** and **Node.js**, I enjoy working across the entire stack.
 
-🤖 **AI/ML enthusiast** — integrating **Gemini AI, LangChain, RAG pipelines, and TensorFlow/Keras** deep learning models into real-world products.
+I'm deeply fascinated by **AI-powered applications** — currently integrating **Gemini AI & LLMs** into full-stack products and building **real-time systems** with **Socket.io**. I also work with **Docker**, **Kubernetes**, and **Azure AKS** to ship production-grade, cloud-ready applications.
 
-☁️ **Cloud-native mindset** — shipping with **Docker, Kubernetes, Azure AKS**, and **CI/CD pipelines**.
+I completed my **B.Tech in CSE** from Santhiram Engineering College (2024) and built solid industry experience as a **Full Stack Developer Intern at Kodnest**, delivering end-to-end features across React, Spring Boot, Node.js, and MySQL/MongoDB.
 
-> 💬 **Ask me about:** React, Node.js, Java, Spring Boot, Python, TensorFlow, Gemini AI, MongoDB, Docker, K8s
+> 💬 Ask me about: **React.js, Node.js, Java, Spring Boot, Python, MongoDB, Docker, Kubernetes, Gemini AI**
 >
-> 📫 **Reach me:** ravikumarjalapatii@gmail.com  
-> ⚡ **Fun fact:** I debug with `console.log` and I'm proud of it! 😄
+> 📬 Reach me: **ravikumarjalapatii@gmail.com**
+>
+> ⚡ Fun fact: **I debug with console.log and I'm not ashamed!** 😄
 
 <br clear="right"/>
-
----
-
-## 🏆 Impact at a Glance
-
-<div align="center">
-
-| 🎯 Metric | 📊 Achievement |
-|:----------|:---------------|
-| ⚡ Page Load Reduction | **~35–40%** via lazy loading, code splitting & rendering optimizations |
-| 🧠 ML Fraud Detection | **92% Precision · 89% Recall · 90% F1-Score** on 284,807 transactions |
-| 📦 Bundle Size Reduction | **~30%** via route-based code splitting & lazy imports |
-| 🎯 False Positive Reduction | **~25%** via reconstruction error threshold optimization |
-| 🛠️ Projects Shipped | **10 full-stack, AI & ML production projects** |
-| 🌐 Tech Stack Breadth | **MERN · Java · Python · DevOps · AI/ML · Real-time** |
-
-</div>
 
 ---
 
 ## 🎨 Tech Stack & Skills
 
 ### 🗣️ Languages
+
 <div align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+<img src="https://skillicons.dev/icons?i=java,js,python,html,css,mysql&perline=6&theme=dark"/>
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 </div>
 
-### 🖥️ Frontend Development
+---
+
+### 🌐 Frontend Development
+
 <div align="center">
-  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Responsive_Design-6C63FF?style=for-the-badge&logo=css3&logoColor=white" />
+
+<img src="https://skillicons.dev/icons?i=react,angular,tailwind,bootstrap,figma&perline=5&theme=dark"/>
+
+![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Hooks](https://img.shields.io/badge/React_Hooks-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular_Basics-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![AG Grid](https://img.shields.io/badge/AG_Grid-FF4500?style=for-the-badge&logo=aggrid&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![CSS Animations](https://img.shields.io/badge/CSS_Animations-FF0080?style=for-the-badge&logo=css3&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-FF4500?style=for-the-badge&logo=css3&logoColor=white)
+
 </div>
+
+---
 
 ### ⚙️ Backend Development
+
 <div align="center">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404040?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT_Auth-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
+
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,python&perline=4&theme=dark"/>
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-FF0080?style=for-the-badge&logo=postman&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF4500?style=for-the-badge&logo=spring&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+
 </div>
 
-### 🗄️ Databases & AI/ML
+---
+
+### 🗄️ Database
+
 <div align="center">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/FAISS_VectorDB-0066CC?style=for-the-badge&logo=meta&logoColor=white" />
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis&perline=3&theme=dark"/>
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Query Optimization](https://img.shields.io/badge/Query_Optimization-00FF88?style=for-the-badge&logo=mysql&logoColor=black)
+![Indexing](https://img.shields.io/badge/Indexing-00BFFF?style=for-the-badge&logo=mongodb&logoColor=white)
+![Schema Design](https://img.shields.io/badge/Schema_Design-FFD700?style=for-the-badge&logo=mongodb&logoColor=black)
+
 </div>
+
+---
+
+### ☁️ DevOps, Cloud & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,git,github,vscode,postman,linux&perline=8&theme=dark"/>
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Azure AKS](https://img.shields.io/badge/Azure_AKS-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![CI/CD](https://img.shields.io/badge/DevOps_CI%2FCD-FF4500?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+</div>
+
+---
 
 ### 🤖 AI, Concepts & Best Practices
+
 <div align="center">
-  <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLMs-FF0080?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-FF4500?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/OOP-6DB33F?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/DSA-FFD700?style=for-the-badge&logo=leetcode&logoColor=black" />
-  <img src="https://img.shields.io/badge/MVC_Architecture-00BFFF?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Agile-00FF88?style=for-the-badge&logo=jira&logoColor=black" />
-  <img src="https://img.shields.io/badge/Error_Handling-DC382D?style=for-the-badge&logo=bugsnag&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microservices_Architecture-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+
+![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-FF0080?style=for-the-badge&logo=openai&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF4500?style=for-the-badge&logo=openai&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-6DB33F?style=for-the-badge&logo=java&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-FFD700?style=for-the-badge&logo=leetcode&logoColor=black)
+![MVC](https://img.shields.io/badge/MVC_Architecture-00BFFF?style=for-the-badge&logo=spring&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-00FF88?style=for-the-badge&logo=jira&logoColor=black)
+![Error Handling](https://img.shields.io/badge/Error_Handling-DC382D?style=for-the-badge&logo=bugsnag&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices_Architecture-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+</div>
+
+---
+
+## 🏆 Primary Stack Overview
+
+<div align="center">
+
+╔══════════════════════════════════════════════════════════════════════╗
+║ 🌟 PRIMARY TECH STACK 🌟                                             ║
+
+╠══════════════════════════════════════════════════════════════════════ ╣
+
+║ 🗣️ LANGUAGES │ Java • JavaScript (ES6+) • Python • SQL               ║
+
+║ 🖥️ FRONTEND │ React.js • Angular • AG Grid • Tailwind                ║
+
+║ ⚙️ BACKEND │ Spring Boot • Node.js • Express • Hibernate             ║
+
+║ 🗄️ DATABASE │ MongoDB • MySQL • Redis • Schema Design                ║
+
+║ 🤖 AI │ Gemini AI • LLMs • Prompt Engineering                        ║
+
+║ ⚡ REALTIME │ Socket.io • WebSockets • Microservices                 ║
+
+║ ☁️ DEVOPS │ Docker • Kubernetes • Azure AKS • CI/CD                  ║
+
+╚══════════════════════════════════════════════════════════════════════╝
+
+
+
 </div>
 
 ---
 
 ## 🔥 Featured Projects
 
+<div align="center">
+
 ### 📋 All Projects Overview
 
-| # | Project | Stack | Live Demo / Source |
-|---|---------|-------|-----------|
-| 01 | 🤖 **MockMate** — AI Interview Platform | MERN + Gemini AI + Socket.io | [🚀 Demo](https://mockmate-react-ai.vercel.app/) / [📂 Code](https://github.com/JalapatiRavikumar/Al-Projects/tree/main/MockMate) |
-| 02 | 📄 **Resume Builder** | Next.js + TypeScript + Tailwind | [🚀 Demo](https://resume-builder-ai-mauve.vercel.app/) / [📂 Code](https://github.com/JalapatiRavikumar/Al-Projects/tree/main/Resume-Builder) |
-| 03 | 🛒 **FullStack E-Commerce App** | React + Django + PostgreSQL + Stripe | [🚀 Demo](https://fullstack-ecommerce-app-pearl.vercel.app/) / [📂 Code](https://github.com/JalapatiRavikumar/Al-Projects/tree/main/FullStack_Ecommerce_App) |
-| 04 | 🛍️ **E-Commerce Web Frontend** | React.js + Redux + Stripe UI | [🚀 Demo](https://fullstack-ecommerce-app-pearl.vercel.app/) / [📂 Code](https://github.com/JalapatiRavikumar/Al-Projects/tree/main/FullStack_Ecommerce_App) |
-| 05 | 📚 **Learning Management System** | React + Spring Boot + MySQL | [🚀 Demo](https://farmers-align-wizard-endorsement.trycloudflare.com/) / [📂 Code](https://github.com/PATMESH/Learning-Management-System) |
-| 06 | 🍔 **Food Delivery App** | MERN + JWT + REST API | [🚀 Demo](https://food-delivery-hub-ashen.vercel.app/) / [📂 Code](https://github.com/JalapatiRavikumar/Al-Projects/tree/main/Food_Delivery_Application) |
-| 07 | 💬 **Echo Gemini Chatbot** | React + Gemini API | [🚀 Demo](https://echo-gemini-chat.vercel.app/) / [📂 Code](https://github.com/JalapatiRavikumar/echo-gemini-chat) |
-| 08 | 🔍 **AI Resume Analyzer & Scraper** | Python + LangChain + RAG + FAISS | [📂 Code](https://github.com/JalapatiRavikumar/Al-Resume-Analyzer) |
-| 09 | 🧠 **Credit Card Fraud Detection** | TensorFlow + Keras + Autoencoders | [📂 Code](https://github.com/curiousily/Credit-Card-Fraud-Detection-using-Autoencoders-in-Keras) |
-| 10 | ⚙️ **End-to-End ML Pipeline** | Python + Flask + MLflow + Scikit-Learn | [📂 Code](https://github.com/entbappy/End-to-end-Machine-Learning-Project-with-MLflow) |
+| # | Project | Stack | Live Demo / Repository |
+|---|---------|-------|------------------------|
+| 01 | 🤖 MockMate | MERN + Gemini AI + Socket.io | [🚀 Demo](https://mockmate-react-ai.vercel.app/) |
+| 02 | 📄 Resume Builder | Next.js + TypeScript + Tailwind | [🚀 Demo](https://resume-builder-ai-mauve.vercel.app/) |
+| 03 | 🛒 FullStack E-Commerce | React + Django + PostgreSQL + Stripe | [🚀 Demo](https://fullstack-ecommerce-app-pearl.vercel.app/) |
+| 04 | 🍔 Food Delivery Application | MERN + JWT + REST API | [🚀 Demo](https://food-delivery-hub-ashen.vercel.app/) |
+| 05 | 📚 Learning Management System | React + Spring Boot + MySQL | [🚀 Demo](https://farmers-align-wizard-endorsement.trycloudflare.com/) |
+| 06 | 💬 Echo Gemini Chat | React + Gemini AI | [🚀 Demo](https://echo-gemini-chat.vercel.app/) |
+| 07 | 🔍 AI Resume Analyzer | Python + LangChain + RAG + FAISS | [📂 GitHub](https://github.com/JalapatiRavikumar/AI-Resume-Analyzer) |
+| 08 | 💳 Credit Card Fraud Detection | TensorFlow + Keras + Autoencoders | [📂 GitHub](https://github.com/curiousily/Credit-Card-Fraud-Detection-using-Autoencoders-in-Keras) |
+| 09 | ⚙️ End-to-End ML Pipeline | Python + Flask + MLflow | [📂 GitHub](https://github.com/entbappy/End-to-end-Machine-Learning-Project-with-MLflow) |
+
+</div>
 
 ---
 
 ### 🤖 MockMate — AI Interview Preparation Platform
-> AI-powered interview prep platform — **MERN Stack + Gemini AI + Socket.io** — with real-time mock sessions, dynamic question generation, and JWT auth.
 
-- **AI Questions:** Generated domain-specific interview questions via Gemini API for role-targeted practice.
-- **Real-time Engine:** Enabled real-time mock interview sessions using Socket.io with live session state management.
-- **Security:** Implemented secure JWT authentication with protected routes and a responsive Tailwind CSS interface.
-- **Performance:** Improved perceived performance with code-splitting and lazy loading, reducing initial bundle size by ~30%.
+<div align="center">
+
+![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
+![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+
+<br/>
+
+[![🔗 View on GitHub](https://img.shields.io/badge/⬡_View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/JalapatiRavikumar/AI-Projects/tree/main/MockMate)
+&nbsp;&nbsp;
+[![🚀 Live Demo](https://img.shields.io/badge/🚀_Live_Demo-FF0080?style=for-the-badge&logo=vercel&logoColor=white&labelColor=cc0066)](https://mockmate-app-cyan.vercel.app/)
+
+</div>
+
+> 🚀 AI-powered interview prep platform built with **MERN Stack + Gemini AI** featuring real-time communication via **Socket.io**.
+
+**✨ Features:**
+- 🤖 AI-generated domain-specific interview questions powered by Gemini API
+- ⚡ Real-time mock interview sessions using Socket.io & WebSockets
+- 🔐 Secure JWT-based authentication with protected routes
+- 📱 Fully responsive, modern UI with React.js + Tailwind CSS
+- Performance-optimized through lazy loading and code splitting
 
 ---
 
 ### 📄 Resume Builder
-> Dynamic resume builder in **Next.js + TypeScript** — real-time live preview, PDF export, multiple templates, and full unit test coverage.
 
-- **Live Preview:** Built a dynamic resume builder in Next.js with real-time resume preview and PDF download functionality.
-- **Customizable:** Developed customizable sections for personal details, skills, education, experience, certifications, and languages.
-- **Templates & Photo:** Implemented profile photo upload and multiple resume templates with reusable React components.
-- **Testing & Perf:** Added unit tests with Jest and React Testing Library, and optimized rendering to cut load time by ~35%.
+<div align="center">
+
+![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+
+<br/>
+
+[![🔗 View on GitHub](https://img.shields.io/badge/⬡_View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/JalapatiRavikumar/AI-Projects/tree/main/Resume-Builder)
+&nbsp;&nbsp;
+[![🚀 Live Demo](https://img.shields.io/badge/🚀_Live_Demo-00FF88?style=for-the-badge&logo=vercel&logoColor=black&labelColor=00cc70)](https://resume-builder-ai-mauve.vercel.app/)
+
+</div>
+
+> Dynamic resume builder with **real-time preview**, multiple templates, and PDF export.
+
+**✨ Features:**
+- Real-time live preview syncing instantly as you type
+- Multiple resume templates with reusable component architecture
+- Profile photo upload
+- Jest + React Testing Library coverage
+- Rendering optimizations for faster load times
 
 ---
 
 ### 🛒 FullStack E-Commerce Application
-> Production-grade e-commerce platform — **React + Django REST + PostgreSQL + Stripe** — with admin panel, secure payments, and order tracking.
 
-- **Stripe Payments:** Integrated the Stripe payment gateway for secure card-based online payments.
-- **Features:** Developed product management, cart, checkout, and order tracking features.
-- **Role Control:** Implemented user profile, address management, and admin functionality.
-- **Schema & DB:** Designed robust database models in PostgreSQL with user authentication via JWT.
+<div align="center">
 
----
+![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-### 🛍️ E-Commerce Web Frontend
-> Responsive React.js e-commerce frontend displaying product list rendering, cart checkout flow, and Stripe transaction serving.
+<br/>
 
-- **Client State:** Implemented global state management using Redux for shopping carts and user selection.
-- **Optimized UI:** Optimized list rendering and image loading, improving page load performance on product pages by ~40%.
-- **Seamless Integrations:** Linked REST APIs and Stripe checkout flows with modular frontend components.
+[![🔗 View on GitHub](https://img.shields.io/badge/⬡_View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/JalapatiRavikumar/AI-Projects/tree/main/FullStack_Ecommerce_App)
+&nbsp;&nbsp;
+[![🚀 Live Demo](https://img.shields.io/badge/🚀_Live_Demo-FF6B35?style=for-the-badge&logo=vercel&logoColor=white&labelColor=cc3700)](https://fullstack-ecommerce-app-pearl.vercel.app/)
 
----
+</div>
 
-### 📚 Learning Management System
-> Full-stack **LMS** — React + Spring Boot + MySQL — with JWT auth, role-based access, assessments, progress tracking & certificate generation.
+> Production-grade e-commerce platform with secure payments and order tracking.
 
-- **Security:** Implemented JWT authentication and role-based access control for Admin and Users.
-- **Assessments:** Developed course management, assessments, progress tracking, and certificate generation features.
-- **Dashboards:** Created an admin dashboard for managing courses, students, and assessment questions.
-- **Build Pipe:** Integrated Maven build orchestration, JPA/Hibernate mapping, and MySQL database engines.
+**✨ Features:**
+- Stripe payment gateway integration
+- JWT auth with role-based access
+- Product management, cart, checkout, and orders
+- User profile, address management, and admin dashboard
+- Performance improvements through optimized rendering
 
 ---
 
 ### 🍔 Food Delivery Application
-> Full-stack **MERN** food delivery platform with cart management, real-time order tracking, and complete admin dashboard.
 
-- **Authentication:** JWT authentication and role-based access control for User and Admin roles with protected API routes.
-- **RESTful API:** Real-time order status updates backed by a clean RESTful API architecture.
-- **Administration:** Admin dashboard for product and order management built with Express.js and MongoDB.
+<div align="center">
+
+![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+<br/>
+
+[![🔗 View on GitHub](https://img.shields.io/badge/⬡_View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/JalapatiRavikumar/AI-Projects/tree/main/Food_Delivery_Application)
+&nbsp;&nbsp;
+[![🚀 Live Demo](https://img.shields.io/badge/🚀_Live_Demo-FFD93D?style=for-the-badge&logo=vercel&logoColor=black)](https://food-delivery-hub-ashen.vercel.app/)
+
+</div>
+
+> Full-stack **MERN** food delivery platform with cart management and admin dashboard.
+
+**✨ Features:**
+- JWT authentication and role-based access control
+- Cart management with real-time order status updates
+- Admin dashboard for product and order management
+- RESTful API architecture with Express.js and MongoDB
 
 ---
 
-### 💬 Echo Gemini Chatbot
-> AI-powered chatbot with **Gemini API** — intelligent multi-turn conversations with optimistic UI and Prompt Engineering.
+### 📚 Learning Management System
 
-- **NLP Model:** Google Gemini API integration using custom Prompt Engineering for contextually aware outputs.
-- **Optimistic State:** Updates client-side message array instantly, enhancing perceived UX.
-- **Adaptive Layout:** Minimalist dark interface with fluid styling.
+<div align="center">
+
+![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+
+<br/>
+
+[![🔗 View on GitHub](https://img.shields.io/badge/⬡_View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PATMESH/Learning-Management-System)
+&nbsp;&nbsp;
+[![🚀 Live Demo](https://img.shields.io/badge/🚀_Live_Demo-00BFFF?style=for-the-badge&logo=vercel&logoColor=white)](https://farmers-align-wizard-endorsement.trycloudflare.com/)
+
+</div>
+
+> Full-stack Learning Management System built using React.js, Spring Boot, Java, MySQL, JWT authentication, and role-based access control.
+
+**✨ Features:**
+- JWT Authentication & Spring Security
+- Student & Admin role management
+- Course management system
+- Assessments and quizzes
+- Progress tracking dashboard
+- Certificate generation
+- REST API architecture
+
+---
+
+### 💬 Echo Gemini Chat
+
+<div align="center">
+
+![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+<br/>
+
+[![🔗 View on GitHub](https://img.shields.io/badge/⬡_View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JalapatiRavikumar/echo-gemini-chat)
+&nbsp;&nbsp;
+[![🚀 Live Demo](https://img.shields.io/badge/🚀_Live_Demo-6A5ACD?style=for-the-badge&logo=vercel&logoColor=white&labelColor=4b2ea6)](https://echo-gemini-chat.vercel.app/)
+
+</div>
+
+> AI-powered chatbot with **Gemini API** integration for intelligent multi-turn conversations.
+
+**✨ Features:**
+- Gemini API integration with prompt engineering
+- Fast response handling with optimistic UI updates
+- Intelligent multi-turn conversation memory
+- Clean and responsive interface
 
 ---
 
 ### 🔍 AI Resume Analyzer & LinkedIn Scraper
-> AI-powered resume analyzer + LinkedIn job scraper — **RAG + LangChain + FAISS + OpenAI** — for intelligent career recommendations.
-
-- **Resume Analysis:** Built AI-powered application to analyze resumes and provide automated summaries, strengths, weaknesses, and improvement suggestions.
-- **RAG & FAISS:** Implemented job role recommendations using OpenAI API and Retrieval-Augmented Generation (RAG) techniques with FAISS vector database.
-- **Selenium Scraping:** Developed LinkedIn scraper using Selenium to automatically collect job details including company name, job title, location, and descriptions.
-- **Career Matches:** Integrated LangChain framework for advanced natural language processing and contextual AI-driven career recommendations.
-
----
-
-### 🧠 Credit Card Fraud Detection — Deep Learning
-> Deep learning **Autoencoder anomaly detection** — 92% precision on 284,807 transactions with 99.8% class imbalance.
-
-- **Model Design:** Developed deep learning-based anomaly detection system using Autoencoders achieving 92% precision and 89% recall in identifying fraudulent credit card transactions.
-- **Imbalance Handling:** Implemented unsupervised learning approach by training autoencoder neural network on 284,807 transactions with 99.8% class imbalance.
-- **EDA & Preprocessing:** Performed data preprocessing, feature engineering, and exploratory data analysis on imbalanced credit card dataset.
-- **Threshold Tuning:** Built multi-layer autoencoder architecture using TensorFlow and Keras with reconstruction error threshold achieving F1-score of 90% and reducing false positives by 25%.
-
----
-
-### ⚙️ End-to-End ML Pipeline — MLOps
-> Production-ready **end-to-end ML pipeline** with MLflow experiment tracking, Flask REST API, and YAML configuration-driven architecture.
-
-- **Pipeline Lifecycle:** Developed modular components for complete ML lifecycle including data ingestion, validation, transformation, training, and evaluation.
-- **YAML Driven:** Utilized configuration-driven architecture with YAML files (`config.yaml`, `schema.yaml`, `params.yaml`) for maintainability.
-- **API Deployment:** Built Flask web application with RESTful API endpoints for real-time model prediction and inference serving.
-- **Reproducibility:** Established industry-standard project structure with pipeline orchestration enabling reproducible ML workflows and seamless deployment.
-
----
-
-## 📊 GitHub Statistics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=JalapatiRavikumar&amp;show_icons=true&amp;bg_color=05070a&amp;title_color=00F0FF&amp;icon_color=FF6B9D&amp;text_color=f4f4f9&amp;ring_color=00F0FF&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;v=2"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JalapatiRavikumar&amp;layout=compact&amp;bg_color=05070a&amp;title_color=FF6B9D&amp;text_color=f4f4f9&amp;hide_border=true&amp;langs_count=8&amp;v=2"/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-00FF88?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-FF0080?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+
+<br/>
+
+[![🔗 View on GitHub](https://img.shields.io/badge/⬡_View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JalapatiRavikumar/AI-Resume-Analyzer)
 
 </div>
 
-<div align="center">
+> AI-powered Resume Analyzer using OpenAI, LangChain, RAG, FAISS vector search, Selenium scraping, and Streamlit.
 
-<img width="72%" src="https://streak-stats.demolab.com/?user=JalapatiRavikumar&amp;theme=black-ice&amp;background=05070a&amp;fire=FFD93D&amp;ring=00F0FF&amp;currStreakLabel=6BCB77&amp;hide_border=true&amp;v=2"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JalapatiRavikumar&amp;bg_color=05070a&amp;color=00F0FF&amp;line=FF6B9D&amp;point=FFD93D&amp;area=true&amp;hide_border=true&amp;area_color=6C63FF33&amp;v=2"/>
-
-</div>
+**✨ Features:**
+- Resume parsing and analysis
+- AI career recommendations
+- Job role matching
+- LinkedIn job scraper
+- LangChain + RAG pipeline
+- FAISS vector database
+- Streamlit dashboard
+- OpenAI integration
 
 ---
 
-## 🏅 GitHub Trophies
+### 💳 Credit Card Fraud Detection using Autoencoders
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=JalapatiRavikumar&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;margin-w=4&amp;column=7&amp;v=2"/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+<br/>
+
+[![🔗 View Project](https://img.shields.io/badge/⬡_View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/curiousily/Credit-Card-Fraud-Detection-using-Autoencoders-in-Keras)
 
 </div>
+
+> Deep Learning based fraud detection using autoencoders, TensorFlow, and Keras.
+
+**✨ Achievements**
+- 92% Precision
+- 89% Recall
+- 90% F1 Score
+- 284,807 transactions processed
+- 25% false positive reduction
+- Unsupervised anomaly detection architecture
+
+---
+
+### ⚙️ End-to-End Machine Learning Pipeline
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+
+<br/>
+
+[![🔗 View Project](https://img.shields.io/badge/⬡_View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/entbappy/End-to-end-Machine-Learning-Project-with-MLflow)
+
+</div>
+
+> Production-grade machine learning pipeline with MLOps architecture and MLflow tracking.
+
+**✨ Features**
+- Data ingestion
+- Data validation
+- Data transformation
+- Model training
+- Model evaluation
+- MLflow tracking
+- Flask deployment
+- End-to-end pipeline automation
 
 ---
 
 ## 💼 Experience
 
-### 🏢 Full Stack Developer Intern — Kodnest (Bengaluru, India)
-Gained hands-on experience across **MERN Stack** and **Java Full Stack** development. Contributed to real-world projects, built production-grade features, and delivered end-to-end solutions.
+<div align="center">
 
-- **Frontend:** Built responsive UIs using React.js (Hooks, Context API, React Router, State Management).
-- **Backend (JS):** Developed scalable REST APIs with Node.js & Express.js — middleware, validation, error handling.
-- **Backend (Java):** Implemented backend logic with Spring Boot, Spring MVC & Hibernate.
-- **Database:** Designed & integrated MongoDB & MySQL with query optimization and schema design.
-- **DevOps:** Hands-on with Docker, Kubernetes, Azure AKS & DevOps CI/CD pipelines.
-- **Delivery:** End-to-end full-stack features from requirements through production using Agile.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2200&pause=900&color=00FF88&center=true&vCenter=true&width=900&lines=FULL+STACK+DEVELOPER+INTERN;KODNEST;JAN+2024+%E2%80%93+SEP+2024"/>
+
+</div>
+
+### 🏢 Full Stack Developer Intern — Kodnest
+
+I worked as a **Full Stack Developer Intern at Kodnest**, gaining hands-on experience across **MERN Stack** and **Java Full Stack** development. I contributed to real-world projects, built production-grade features, and delivered end-to-end solutions from design to deployment.
+
+**Key Responsibilities**
+- ⚛️ Built responsive, component-driven UIs using **React.js** (Hooks, Context API, React Router, State Management)
+- 🔗 Developed scalable **REST APIs** with **Node.js & Express.js**, implementing middleware, validation, and error handling
+- ☕ Implemented backend logic with **Java, Spring Boot, Spring MVC & Hibernate**, following MVC and service-layer architecture
+- 🗄️ Designed and integrated databases using **MongoDB & MySQL** with query optimization and schema design
+- ☁️ Gained hands-on exposure to **Docker, Kubernetes, Azure AKS** and **DevOps CI/CD** pipelines
+- 🚀 Delivered complete **full-stack applications** from requirements through production deployment using **Agile** methodology
 
 ---
 
 ## 🎓 Education
 
-### 🎓 B.Tech — Computer Science Engineering
-**Santhiram Engineering College** &nbsp;\|&nbsp; 📅 Graduated **2024**
-*Core:* Data Structures & Algorithms · Operating Systems · DBMS · OOP · Software Engineering · Computer Networks
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2200&pause=900&color=FFD700&center=true&vCenter=true&width=900&lines=B.TECH+IN+COMPUTER+SCIENCE+ENGINEERING;SANTHIRAM+ENGINEERING+COLLEGE;GRADUATED+2024;CGPA+8.22%2F10"/>
+
+</div>
+
+### 🎓 Bachelor of Technology — Computer Science Engineering
+
+**Santhiram Engineering College** &nbsp;|&nbsp; 📅 Graduated **2024**
+
+Built strong fundamentals in Data Structures & Algorithms, Operating Systems, DBMS, OOP, Software Engineering, and Computer Networks — applied through multiple full-stack projects that launched my development career.
 
 ---
 
-## 🌱 Currently Learning & Building
+## 🌱 Currently Working On
 
 <div align="center">
 
-| 🔥 | Area | Focus |
-|:---:|:-----|:------|
-| ⚛️ | **Advanced React & Next.js** | Server components, streaming SSR, advanced patterns |
+| 🔥 | Focus Area | Details |
+|:---:|:---|:---|
+| ⚛️ | **Scalable MERN Applications** | Advanced React patterns, state architecture |
 | ☕ | **Spring Boot Microservices** | Service mesh, API gateway, distributed systems |
-| 🤖 | **AI-Powered Apps** | Gemini AI, LLMs, RAG architectures, Prompt Engineering |
-| 🧠 | **Deep Learning & MLOps** | TensorFlow, Keras, MLflow, model deployment at scale |
-| ☁️ | **Cloud & DevOps** | Advanced Kubernetes, Azure AKS, CI/CD pipelines |
+| 🤖 | **AI-Powered Apps** | Gemini AI, LLMs, Prompt Engineering |
+| ☁️ | **Cloud & DevOps** | Docker, Kubernetes, Azure AKS, CI/CD pipelines |
+| ⚡ | **Real-time Systems** | Socket.io at scale, WebSocket architecture |
+| 🔐 | **Advanced Security** | OAuth 2.0, JWT refresh flows, HTTPS best practices |
+| 📈 | **Performance** | Query optimization, caching strategies, lazy loading |
+| 🐍 | **Python** | Scripting, automation, ML fundamentals |
 
 </div>
 
@@ -339,9 +547,9 @@ Gained hands-on experience across **MERN Stack** and **Java Full Stack** develop
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JalapatiRavikumar/JalapatiRavikumar/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JalapatiRavikumar/JalapatiRavikumar/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/JalapatiRavikumar/JalapatiRavikumar/output/github-contribution-grid-snake.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
 </picture>
 
 </div>
@@ -352,38 +560,85 @@ Gained hands-on experience across **MERN Stack** and **Java Full Stack** develop
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
 ---
 
-## 📫 Let's Connect & Collaborate!
-
-### 🤝 Open for Opportunities!
-I'm actively looking for **full-time roles**, **freelance projects**, and **open-source collaborations** in:
-
-- **Full Stack Development** (MERN, React, Node.js)
-- **Java Full Stack** (Spring Boot, Microservices, Hibernate)
-- **AI / ML Engineering** (Python, RAG, TensorFlow)
-- **DevOps / MLOps** (Docker, K8s, CI/CD pipelines)
+## 📊 GitHub Statistics
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/ravikumarjalapatii%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravikumarjalapatii@gmail.com)
-&nbsp;
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=JalapatiRavikumar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0080&icon_color=FFD700&text_color=ffffff&ring_color=FF0080&include_all_commits=true&count_private=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JalapatiRavikumar&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=ffffff&langs_count=8"/>
+
+</div>
+
+<div align="center">
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=JalapatiRavikumar&theme=radical&hide_border=true&background=0D1117&stroke=FF0080&ring=FFD700&fire=FF4500&currStreakLabel=00BFFF&sideLabels=00FF88&dates=ffffff"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JalapatiRavikumar&bg_color=0D1117&color=FF0080&line=00BFFF&point=FFD700&area=true&hide_border=true&area_color=FF008033"/>
+
+</div>
+
+---
+
+## 🏅 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=JalapatiRavikumar&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7"/>
+
+</div>
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+### 🤝 Open for Opportunities!
+
+I'm actively looking for **full-time roles**, **freelance projects**, and **open-source collaborations** in Full Stack / MERN / Java / AI / Cloud development. Let's build something great together!
+
+[![Email](https://img.shields.io/badge/📧_ravikumarjalapatii@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravikumarjalapatii@gmail.com)
+
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jalapatiravikumar)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-FF6B35?style=for-the-badge&logo=vercel&logoColor=white)](https://jalapatiravikumar-portfolio.vercel.app/)
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JalapatiRavikumar)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-FF4500?style=for-the-badge&logo=vercel&logoColor=white)](https://jalapatiravikumar-portfolio.vercel.app/)
 
 <br/>
 
-> **"Code is like humor. When you have to explain it, it's bad." — Cory House**
+**💡 "Code is like humor. When you have to explain it, it's bad." — Cory House**
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="footer.svg" width="100%"/>
+
+### ⚡ Quick Facts
+
+🔭 Currently working on **AI-Powered Full Stack + Cloud Projects**
+🌱 Currently learning **Advanced System Design, Kubernetes & Python**
+👯 Looking to collaborate on **MERN + Java + AI Projects**
+💬 Ask me about **React.js, Node.js, Java, Spring Boot, Python, MongoDB, Docker, Gemini AI**
+📫 Reach me at **ravikumarjalapatii@gmail.com**
+⚡ Fun fact: **I debug with console.log and I'm not ashamed!** 😄
+
 </div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,25:00FF88,50:FFD700,75:FF4500,100:FF0080&height=150&section=footer&text=Thanks%20for%20visiting!%20🚀&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="100%"/>
+</div>
+ 

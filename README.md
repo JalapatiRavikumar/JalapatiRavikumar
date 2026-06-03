@@ -1,3 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jalapati Ravikumar - Full Stack Developer</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+            background: #0d1117;
+            color: #c9d1d9;
+            margin: 0;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+        .section {
+            margin: 40px 0;
+        }
+        h2 {
+            color: #58a6ff;
+            border-bottom: 2px solid #21262d;
+            padding-bottom: 10px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+        }
+        td, th {
+            padding: 12px;
+            text-align: left;
+            border-bottom: 1px solid #21262d;
+        }
+        .badge-container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            justify-content: center;
+            margin: 20px 0;
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+
 <!-- ANIMATED HEADER BANNER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:6C63FF,20:FF6B9D,40:FFD93D,60:6BCB77,80:4DA8DA,100:FF6B35&height=300&section=header&text=Jalapati%20Ravikumar&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Java%20%7C%20AI%20%26%20ML%20%7C%20DevOps&descAlignY=63&descAlign=50&stroke=ffffff&strokeWidth=2.5" width="100%"/>
@@ -695,3 +748,7 @@ I'm actively looking for **full-time roles**, **freelance projects**, and **open
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,25:FF6B9D,50:FFD93D,75:6BCB77,100:4DA8DA&height=160&section=footer&text=Thanks%20for%20visiting!%20Let%27s%20build%20something%20amazing!%20🚀&fontSize=22&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%"/>
 </div>
+
+</div>
+</body>
+</html>

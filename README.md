@@ -1,12 +1,12 @@
 <!-- ANIMATED HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:6C63FF,20:FF6B9D,40:FFD93D,60:6BCB77,80:4DA8DA,100:FF6B35&height=300&section=header&text=Jalapati%20Ravikumar&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Java%20%7C%20AI%20%26%20ML%20%7C%20DevOps&descAlignY=63&descAlign=50&stroke=ffffff&strokeWidth=2.5" width="100%"/>
+  <img src="banner.svg" width="100%"/>
 </div>
 
 <!-- TYPING ANIMATION -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=700&color=6C63FF&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=1000&height=52&lines=🚀+Full+Stack+Developer+%7C+MERN+%2B+Java+%2B+Python;⚛️+React.js+%7C+Next.js+%7C+Node.js+%7C+Spring+Boot;🤖+Gemini+AI+%7C+LangChain+%7C+RAG+%7C+Prompt+Engineering;🧠+Deep+Learning+%7C+TensorFlow+%7C+Keras+%7C+MLOps;⚡+Real-time+Apps+with+Socket.io+%26+WebSockets;☁️+Docker+%7C+Kubernetes+%7C+Azure+AKS+%7C+CI%2FCD+DevOps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=22&amp;duration=2800&amp;pause=700&amp;color=6C63FF&amp;background=00000000&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;repeat=true&amp;width=1000&amp;height=52&amp;lines=%F0%9F%9A%80+Full+Stack+Developer+%7C+MERN+%2B+Java+%2B+Python;%E2%9A%9B%EF%B8%8F+React.js+%7C+Next.js+%7C+Node.js+%7C+Spring+Boot;%F0%9F%A4%96+Gemini+AI+%7C+LangChain+%7C+RAG+%7C+Prompt+Engineering;%F0%9F%A7%A0+Deep+Learning+%7C+TensorFlow+%7C+Keras+%7C+MLOps;%E2%9A%A1+Real-time+Apps+with+Socket.io+%26+WebSockets;%E2%98%81%EF%B8%8F+Docker+%7C+Kubernetes+%7C+Azure+AKS+%7C+CI%2FCD+DevOps" alt="Typing SVG" />
   </a>
 </div>
 
@@ -21,18 +21,14 @@
 
 <!-- SOCIAL BADGES -->
 <div align="center">
-
-[![Email](https://img.shields.io/badge/Gmail-ravikumarjalapatii%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e)](mailto:ravikumarjalapatii@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jalapati%20Ravikumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e)](https://www.linkedin.com/in/jalapatiravikumar)
-[![GitHub](https://img.shields.io/badge/GitHub-JalapatiRavikumar-6C63FF?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e)](https://github.com/JalapatiRavikumar)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Site-FF6B35?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e)](https://jalapatiravikumar-portfolio.vercel.app/)
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=JalapatiRavikumar&label=Profile+Views&color=6C63FF&style=for-the-badge&labelColor=1a1a2e" alt="Profile Views"/>
-&nbsp;
-![GitHub followers](https://img.shields.io/github/followers/JalapatiRavikumar?label=Followers&style=for-the-badge&color=FF6B9D&labelColor=1a1a2e&logo=github)
-
+  <a href="mailto:ravikumarjalapatii@gmail.com"><img src="https://img.shields.io/badge/Gmail-ravikumarjalapatii%40gmail.com-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;labelColor=1a1a2e" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/jalapatiravikumar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Jalapati%20Ravikumar-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;labelColor=1a1a2e" alt="LinkedIn" /></a>
+  <a href="https://github.com/JalapatiRavikumar" target="_blank"><img src="https://img.shields.io/badge/GitHub-JalapatiRavikumar-6C63FF?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=1a1a2e" alt="GitHub" /></a>
+  <a href="https://jalapatiravikumar-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Live%20Site-FF6B35?style=for-the-badge&amp;logo=vercel&amp;logoColor=white&amp;labelColor=1a1a2e" alt="Portfolio" /></a>
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=JalapatiRavikumar&amp;label=Profile+Views&amp;color=6C63FF&amp;style=for-the-badge&amp;labelColor=1a1a2e" alt="Profile Views"/>
+  &nbsp;
+  <a href="https://github.com/JalapatiRavikumar?tab=followers" target="_blank"><img src="https://img.shields.io/github/followers/JalapatiRavikumar?label=Followers&amp;style=for-the-badge&amp;color=FF6B9D&amp;labelColor=1a1a2e&amp;logo=github" alt="GitHub followers" /></a>
 </div>
 
 ---
@@ -271,20 +267,20 @@ focus      : MERN · Java · Python · AI/ML · DevOps
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=JalapatiRavikumar&show_icons=true&bg_color=05070a&title_color=00F0FF&icon_color=FF6B9D&text_color=f4f4f9&ring_color=00F0FF&hide_border=true&include_all_commits=true&count_private=true"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JalapatiRavikumar&layout=compact&bg_color=05070a&title_color=FF6B9D&text_color=f4f4f9&hide_border=true&langs_count=8"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=JalapatiRavikumar&amp;show_icons=true&amp;bg_color=05070a&amp;title_color=00F0FF&amp;icon_color=FF6B9D&amp;text_color=f4f4f9&amp;ring_color=00F0FF&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;v=2"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JalapatiRavikumar&amp;layout=compact&amp;bg_color=05070a&amp;title_color=FF6B9D&amp;text_color=f4f4f9&amp;hide_border=true&amp;langs_count=8&amp;v=2"/>
 
 </div>
 
 <div align="center">
 
-<img width="72%" src="https://github-readme-streak-stats.herokuapp.com/?user=JalapatiRavikumar&theme=black-ice&background=05070a&fire=FFD93D&ring=00F0FF&currStreakLabel=6BCB77&hide_border=true"/>
+<img width="72%" src="https://streak-stats.demolab.com/?user=JalapatiRavikumar&amp;theme=black-ice&amp;background=05070a&amp;fire=FFD93D&amp;ring=00F0FF&amp;currStreakLabel=6BCB77&amp;hide_border=true&amp;v=2"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JalapatiRavikumar&bg_color=05070a&color=00F0FF&line=FF6B9D&point=FFD93D&area=true&hide_border=true&area_color=6C63FF33"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JalapatiRavikumar&amp;bg_color=05070a&amp;color=00F0FF&amp;line=FF6B9D&amp;point=FFD93D&amp;area=true&amp;hide_border=true&amp;area_color=6C63FF33&amp;v=2"/>
 
 </div>
 
@@ -294,7 +290,7 @@ focus      : MERN · Java · Python · AI/ML · DevOps
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=JalapatiRavikumar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=JalapatiRavikumar&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;margin-w=4&amp;column=7&amp;v=2"/>
 
 </div>
 
@@ -389,5 +385,5 @@ I'm actively looking for **full-time roles**, **freelance projects**, and **open
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,25:FF6B9D,50:FFD93D,75:6BCB77,100:4DA8DA&height=160&section=footer&text=Thanks%20for%20visiting!%20Let%27s%20build%20something%20amazing!%20🚀&fontSize=22&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%"/>
+  <img src="footer.svg" width="100%"/>
 </div>

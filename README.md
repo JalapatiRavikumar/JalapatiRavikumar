@@ -8,10 +8,12 @@
 </div>
 <br/>
 <div align="center">
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-7B2FBE?style=for-the-badge&logoColor=white)](https://jalapatiravikumar-portfolio.vercel.app/)
-[![Email](https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravikumarjalapatii@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jalapatiravikumar)
-[![GitHub](https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JalapatiRavikumar)
+<a href="https://jalapatiravikumar-portfolio.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-7B2FBE?style=for-the-badge&logoColor=white" alt="Portfolio"/></a>
+<a href="mailto:ravikumarjalapatii@gmail.com"><img src="https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/jalapatiravikumar"><img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/JalapatiRavikumar"><img src="https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+ 
+<br/><br/>
  
 <img src="https://komarev.com/ghpvc/?username=JalapatiRavikumar&label=Profile+Views&color=7B2FBE&style=flat-square" alt="Profile Views"/>
 </div>
@@ -28,7 +30,7 @@ I'm deeply invested in **AI-powered applications**, currently working with **Gem
  
 > 💬 Ask me about: **React.js · Node.js · Java · Spring Boot · Python · MongoDB · Docker · Gemini AI · LangChain**
 >
-> 📬 **ravikumarjalapatii@gmail.com** · 🌐 **[jalapatiravikumar-portfolio.vercel.app](https://jalapatiravikumar-portfolio.vercel.app/)**
+> 📬 **ravikumarjalapatii@gmail.com** &nbsp;·&nbsp; 🌐 **[jalapatiravikumar-portfolio.vercel.app](https://jalapatiravikumar-portfolio.vercel.app/)**
 >
 > ⚡ Fun fact: I debug with `console.log` and I'm not ashamed! 😄
  
@@ -38,93 +40,105 @@ I'm deeply invested in **AI-powered applications**, currently working with **Gem
 ## 🛠️ Tech Stack
  
 ### 🗣️ Languages
+ 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css,mysql&perline=7&theme=dark"/>
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
- 
+<br/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 </div>
 ### 🖥️ Frontend
+ 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,bootstrap,figma&perline=6&theme=dark"/>
-![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![AG Grid](https://img.shields.io/badge/AG_Grid-FF6B35?style=flat-square&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
- 
+<br/>
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/AG_Grid-FF6B35?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
 </div>
 ### ⚙️ Backend
+ 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=spring,nodejs,express,django,python&perline=5&theme=dark"/>
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-A855F7?style=flat-square&logo=postman&logoColor=white)
- 
+<br/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_APIs-A855F7?style=flat-square&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microservices-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
 </div>
 ### 🗄️ Databases
+ 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis&perline=4&theme=dark"/>
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS_Vector_DB-0080FF?style=flat-square&logoColor=white)
- 
+<br/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/FAISS_Vector_DB-0080FF?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongodb&logoColor=white"/>
 </div>
 ### ☁️ DevOps & Cloud
+ 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,git,github,linux,vscode,postman&perline=8&theme=dark"/>
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Azure AKS](https://img.shields.io/badge/Azure_AKS-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-A855F7?style=flat-square&logo=githubactions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
- 
+<br/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure_AKS-0089D6?style=flat-square&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/CI%2FCD-A855F7?style=flat-square&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 </div>
 ### 🤖 AI / ML
-<div align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perline=2&theme=dark"/>
-![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-A855F7?style=flat-square&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0080FF?style=flat-square&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6B35?style=flat-square&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
  
+<div align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow&perline=1&theme=dark"/>
+<br/>
+<img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG_Pipelines-A855F7?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/FAISS-0080FF?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-FF6B35?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>
 </div>
 ### 🧪 Testing & Tools
-<div align="center">
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-![React Testing Library](https://img.shields.io/badge/React_Testing_Library-E33332?style=flat-square&logo=testing-library&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
  
+<div align="center">
+<img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white"/>
+<img src="https://img.shields.io/badge/React_Testing_Library-E33332?style=flat-square&logo=testing-library&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white"/>
 </div>
 ---
  
 ## 🏗️ Architecture Snapshot
  
+<div align="center">
 ```
 ╔══════════════════════════════════════════════════════════════════════════════════╗
 ║                          🌟 PRIMARY TECH STACK 🌟                               ║
@@ -140,6 +154,7 @@ I'm deeply invested in **AI-powered applications**, currently working with **Gem
 ╚══════════════════════════════════════════════════════════════════════════════════╝
 ```
  
+</div>
 ---
  
 ## 🔥 Featured Projects
@@ -149,17 +164,17 @@ I'm deeply invested in **AI-powered applications**, currently working with **Gem
 ### 🤖 MockMate — AI Interview Preparation Platform
  
 <div align="center">
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JalapatiRavikumar/AI-Projects/tree/main/MockMate)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-A855F7?style=for-the-badge&logo=vercel&logoColor=white)](https://mockmate-react-ai.vercel.app/)
+<a href="https://github.com/JalapatiRavikumar/AI-Projects/tree/main/MockMate"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;
+<a href="https://mockmate-react-ai.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-A855F7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
  
-![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
-![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
- 
+<br/>
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
 </div>
 > AI-powered mock interview platform built on the **MERN Stack + Gemini AI** with real-time session capabilities.
  
@@ -173,16 +188,16 @@ I'm deeply invested in **AI-powered applications**, currently working with **Gem
 ### 📄 Resume Builder
  
 <div align="center">
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JalapatiRavikumar/AI-Projects/tree/main/Resume-Builder)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-A855F7?style=for-the-badge&logo=vercel&logoColor=white)](https://resume-builder-ai-mauve.vercel.app/)
+<a href="https://github.com/JalapatiRavikumar/AI-Projects/tree/main/Resume-Builder"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;
+<a href="https://resume-builder-ai-mauve.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-A855F7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-![PDF Export](https://img.shields.io/badge/PDF_Export-DC143C?style=flat-square&logoColor=white)
- 
+<br/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white"/>
+<img src="https://img.shields.io/badge/PDF_Export-DC143C?style=flat-square&logoColor=white"/>
 </div>
 > Dynamic resume builder in **Next.js + TypeScript** with real-time preview and PDF export.
  
@@ -196,39 +211,39 @@ I'm deeply invested in **AI-powered applications**, currently working with **Gem
 ### 🛒 FullStack E-Commerce Application
  
 <div align="center">
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JalapatiRavikumar/AI-Projects/tree/main/FullStack_Ecommerce_App)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-A855F7?style=for-the-badge&logo=vercel&logoColor=white)](https://fullstack-ecommerce-app-pearl.vercel.app/)
+<a href="https://github.com/JalapatiRavikumar/AI-Projects/tree/main/FullStack_Ecommerce_App"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;
+<a href="https://fullstack-ecommerce-app-pearl.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-A855F7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
  
-![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
- 
+<br/>
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
 </div>
 > Full-stack e-commerce app with a **React.js** frontend and **Django REST** backend.
  
 - 🛒 Product listing, filtering, sorting, cart management, and **Stripe** payment integration
 - 🔐 Secure **JWT** auth with role-based access (User / Admin)
-- 👤 User profiles, address management, order tracking
-- 📊 Admin dashboard for product and order management
+- 👤 User profiles, address management, and order tracking
+- 📊 Admin dashboard for full product and order management
 - ⚡ Optimized image loading — improved page load performance by **~40%**
 ---
  
 ### 🍔 Food Delivery Application
  
 <div align="center">
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JalapatiRavikumar/AI-Projects/tree/main/Food_Delivery_Application)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-A855F7?style=for-the-badge&logo=vercel&logoColor=white)](https://food-delivery-hub-ashen.vercel.app/)
+<a href="https://github.com/JalapatiRavikumar/AI-Projects/tree/main/Food_Delivery_Application"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;
+<a href="https://food-delivery-hub-ashen.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-A855F7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
  
-![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
- 
+<br/>
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
 </div>
 > MERN-based food delivery platform with cart management, order tracking, and admin control.
  
@@ -241,36 +256,36 @@ I'm deeply invested in **AI-powered applications**, currently working with **Gem
 ### 🎓 Learning Management System
  
 <div align="center">
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PATMESH/Learning-Management-System)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-A855F7?style=for-the-badge&logo=vercel&logoColor=white)](https://farmers-align-wizard-endorsement.trycloudflare.com/)
+<a href="https://github.com/PATMESH/Learning-Management-System"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;
+<a href="https://farmers-align-wizard-endorsement.trycloudflare.com/"><img src="https://img.shields.io/badge/Live_Demo-A855F7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
  
-![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
- 
+<br/>
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white"/>
 </div>
-> Full-stack LMS built with **React.js + Spring Boot + MySQL**, featuring role-based access for students and admins.
+> Full-stack LMS built with **React.js + Spring Boot + MySQL**, with role-based access for students and admins.
  
 - 🔐 JWT + **Spring Security** with role-based access control (Admin / User)
 - 📚 Course management, assessments, progress tracking, and certificate generation
 - 📊 Admin dashboard for students, courses, and assessment questions
-- 🏗️ Modular architecture following MVC and service-layer patterns
+- 🏗️ Modular MVC + service-layer architecture
 ---
  
 ### 💬 Echo Gemini Chat
  
 <div align="center">
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JalapatiRavikumar/echo-gemini-chat)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-A855F7?style=for-the-badge&logo=vercel&logoColor=white)](https://echo-gemini-chat.vercel.app/)
+<a href="https://github.com/JalapatiRavikumar/echo-gemini-chat"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;
+<a href="https://echo-gemini-chat.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-A855F7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
  
-![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
-![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
- 
+<br/>
+<img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 </div>
 > AI chatbot with **Gemini API** integration for intelligent multi-turn conversations.
  
@@ -283,41 +298,41 @@ I'm deeply invested in **AI-powered applications**, currently working with **Gem
 ### 🔍 AI Resume Analyzer & LinkedIn Scraper
  
 <div align="center">
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JalapatiRavikumar/AI-Resume-Analyzer)
+<a href="https://github.com/JalapatiRavikumar/AI-Resume-Analyzer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0080FF?style=flat-square&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
- 
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/FAISS-0080FF?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
 </div>
 > AI-powered resume analyzer using **RAG** for job role matching and **Selenium** for LinkedIn scraping.
  
 - 📄 Automated resume analysis: summaries, strengths, weaknesses, and improvement tips
 - 🔍 Job role recommendations using **OpenAI API + RAG + FAISS** vector database
-- 🕷️ LinkedIn scraper via **Selenium** — extracts company, job title, location, and descriptions
-- 🌐 Interactive **Streamlit** app for real-time analysis and job matching
-- 🧠 **LangChain** integration for advanced NLP and contextual career recommendations
+- 🕷️ LinkedIn scraper via **Selenium** — extracts company, title, location, and descriptions
+- 🌐 Interactive **Streamlit** app for real-time analysis and intelligent job matching
+- 🧠 **LangChain** for advanced NLP and contextual career recommendations
 ---
  
 ### 🛡️ Credit Card Fraud Detection
  
 <div align="center">
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JalapatiRavikumar/AI-Projects)
+<a href="https://github.com/JalapatiRavikumar/AI-Projects"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logoColor=white)
- 
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logoColor=white"/>
 </div>
-> Deep learning anomaly detection system using **Autoencoders** — 92% precision, 89% recall.
+> Deep learning anomaly detection using **Autoencoders** — 92% precision, 89% recall.
  
 - 🧠 Unsupervised **Autoencoder** neural network trained on 284,807 transactions (99.8% class imbalance)
-- 📊 Preprocessing, feature engineering, and EDA on highly imbalanced dataset
+- 📊 Preprocessing, feature engineering, and EDA on a highly imbalanced dataset
 - 🏗️ Multi-layer autoencoder with **TensorFlow/Keras** achieving **F1-score of 90%**
 - 📉 Reduced false positives by **25%** through reconstruction error threshold optimization
 ---
@@ -325,21 +340,21 @@ I'm deeply invested in **AI-powered applications**, currently working with **Gem
 ### ⚙️ End-to-End ML Pipeline
  
 <div align="center">
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JalapatiRavikumar/AI-Projects)
+<a href="https://github.com/JalapatiRavikumar/AI-Projects"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
- 
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 </div>
 > Production-ready ML pipeline with modular components and a **Flask** inference API.
  
 - 🔄 Complete ML lifecycle: data ingestion → validation → transformation → training → evaluation
 - ⚙️ Config-driven architecture with YAML files for maintainability and scalability
 - 🌐 Flask REST API for real-time model prediction and inference serving
-- 🏭 Industry-standard project structure with reproducible ML workflow orchestration
+- 🏭 Industry-standard structure with reproducible ML workflow orchestration
 ---
  
 ## 📊 GitHub Statistics
@@ -373,7 +388,7 @@ Gained end-to-end experience across **MERN Stack** and **Java Full Stack** devel
 |:---|:---|
 | ⚛️ **Frontend** | Built responsive UIs with React.js — Hooks, Context API, React Router, State Management |
 | 🔗 **Backend (Node)** | Developed scalable REST APIs with Node.js & Express.js — middleware, validation, error handling |
-| ☕ **Backend (Java)** | Implemented business logic with Spring Boot, Spring MVC, Hibernate following MVC + service-layer patterns |
+| ☕ **Backend (Java)** | Implemented business logic with Spring Boot, Spring MVC & Hibernate following MVC + service-layer patterns |
 | 🗄️ **Database** | Designed and optimized schemas in MongoDB & MySQL |
 | ☁️ **DevOps** | Hands-on with Docker, Kubernetes, Azure AKS, and CI/CD pipelines |
 | 🚀 **Delivery** | Shipped full-stack apps from requirements to production using Agile methodology |
@@ -383,6 +398,7 @@ Gained end-to-end experience across **MERN Stack** and **Java Full Stack** devel
 ## 🎓 Education
  
 ### 🎓 B.Tech — Computer Science Engineering
+ 
 **Santhiram Engineering College** &nbsp;|&nbsp; 📅 Graduated **2024**
  
 Strong foundation in DSA, Operating Systems, DBMS, OOP, Software Engineering, and Computer Networks — applied through multiple full-stack and AI projects.
@@ -420,8 +436,7 @@ Strong foundation in DSA, Operating Systems, DBMS, OOP, Software Engineering, an
 ## 💬 Dev Quote
  
 <div align="center">
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
- 
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </div>
 ---
  
@@ -432,12 +447,13 @@ Strong foundation in DSA, Operating Systems, DBMS, OOP, Software Engineering, an
  
 Actively looking for **full-time roles**, **freelance projects**, and **open-source collaborations** in Full Stack / MERN / Java / AI / Cloud engineering.
  
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-7B2FBE?style=for-the-badge&logoColor=white)](https://jalapatiravikumar-portfolio.vercel.app/)
-[![Email](https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravikumarjalapatii@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jalapatiravikumar)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JalapatiRavikumar)
+<a href="https://jalapatiravikumar-portfolio.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-7B2FBE?style=for-the-badge&logoColor=white" alt="Portfolio"/></a>&nbsp;
+<a href="mailto:ravikumarjalapatii@gmail.com"><img src="https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/jalapatiravikumar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+<a href="https://github.com/JalapatiRavikumar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
  
-<br/>
+<br/><br/>
+ 
 **💡 "Code is like humor. When you have to explain it, it's bad." — Cory House**
  
 </div>
@@ -446,8 +462,11 @@ Actively looking for **full-time roles**, **freelance projects**, and **open-sou
 <div align="center">
 ⭐ **If you find my work interesting, drop a star on my repos!** ⭐
  
+<br/>
 🔭 Currently working on **AI-Powered Full Stack + Cloud Projects**
+&nbsp;&nbsp;|&nbsp;&nbsp;
 🌱 Learning **Advanced System Design, Kubernetes & MLOps**
+&nbsp;&nbsp;|&nbsp;&nbsp;
 👯 Open to collaborate on **MERN + Java + AI Projects**
  
 </div>
@@ -456,4 +475,3 @@ Actively looking for **full-time roles**, **freelance projects**, and **open-sou
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,25:302B63,50:24243e,75:302B63,100:0F0C29&height=150&section=footer&text=Thanks%20for%20visiting!%20🚀&fontSize=28&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="100%"/>
 </div>
- 

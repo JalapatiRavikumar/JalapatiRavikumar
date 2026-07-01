@@ -15,7 +15,7 @@
 [![Email](https://img.shields.io/badge/📧_Email-FF0080?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravikumarjalapatii@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jalapatiravikumar)
 [![GitHub](https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JalapatiRavikumar)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF4500?style=for-the-badge&logo=vercel&logoColor=white)](https://mockmate-app-cyan.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF4500?style=for-the-badge&logo=vercel&logoColor=white)](https://developer-portfolio-v5.vercel.app/ss)
 
 <img src="https://komarev.com/ghpvc/?username=JalapatiRavikumar&label=🔥+Profile+Views&color=FF0080&style=for-the-badge" alt="Profile Views"/>
 

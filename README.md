@@ -583,6 +583,40 @@ I completed my **B.Tech in CSE** from Santhiram Engineering College (2024) and b
 
 ---
 
+### 🏦 10. LoanGuard AI — Loan Approval System
+
+<table cellspacing="0" cellpadding="12" width="100%" bgcolor="#101B2F">
+<tr>
+<td width="60%" valign="top">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+<br/>
+
+[![🔗 View on GitHub](https://img.shields.io/badge/⬡_View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/JalapatiRavikumar/Data-Scientist/tree/main/LoanGuard-AI-main)
+
+**✨ Features**
+- Developed an AI-powered loan approval system for real-time eligibility prediction
+- Built Logistic Regression and Decision Tree models with up to 92.25% accuracy
+- Implemented risk scoring, fraud detection, XAI, and rule-based decision validation
+- Designed an interactive Streamlit dashboard with analytics, what-if simulations, and batch processing
+
+</td>
+<td width="40%" align="center" valign="middle">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00FF88,50:00BFFF,100:7B2FF7&height=180&section=header&text=LoanGuard%20AI&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
+<br/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_x-b1kZc02e5b0X_Y2pG1iZq33X3p8O81hQ&s" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 📦 Additional Projects
 
 <table>
